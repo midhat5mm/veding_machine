@@ -1,0 +1,15 @@
+# Server start:
+cd server
+npm install
+npm start
+
+# run tests
+cd server
+npm test
+
+# Client start
+cd client
+npm install
+npm start
+
+
